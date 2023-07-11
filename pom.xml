@@ -15,23 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-    <dependency>
-     <groupId>org.apache.maven.plugins</groupId>
-     <artifactId>maven-compiler-plugin</artifactId>
-     <version>3.10.1</version>
-</dependency>
-    <dependency>
-     <groupId>org.apache.maven.plugins</groupId>
-     <artifactId>maven-resources-plugin</artifactId>
-     <version>3.3.0</version>
-</dependency>
-   <dependency>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-war-plugin</artifactId>
-    <version>3.4.1-SNAPSHOT</version>
-    <type>maven-plugin</type>
-    </dependency>
-</dependency>
   <build>
     <finalName>01-maven-web-app</finalName>
   </build>
